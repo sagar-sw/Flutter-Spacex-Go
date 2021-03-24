@@ -68,14 +68,7 @@ There you go, you can now open & edit the project. Enjoy!
 
 ## Authors
 
-- **Jesús Rodríguez** - lead developer: [GitHub](https://github.com/jesusrp98), [Twitter](https://twitter.com/jesusrp98) & [Reddit](https://www.reddit.com/user/jesusrp98).
-- **Matias de Andrea** - UI/UX designer: [GitHub](https://github.com/deandreamatias), [Twitter](https://twitter.com/deandreamatias) & [Behance](https://www.behance.net/deandreamatias).
-- **/u/OuterSpaceCitizen** - Portuguese translations.
-- **loopsun** - Simplified Chinese translations.
-- **Charlie Merland** - French translations.
-- **Tommi Avery** - Italian translations.
-- **Fatur Rahman S** - Indonesian translations: [GitHub](https://github.com/Dexalt142).
-- **Patrick Kilter** - German translations: [GitHub](https://github.com/m0veax).
+- **sagar swami** - lead developer: [GitHub](https://github.com/sagar-sw).
 
 ## Contributing
 
